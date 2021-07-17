@@ -2,7 +2,7 @@
 
 This course covers basic features of the Python language. As per the mind map below:
 
-! [Mind Map] (../mind_map.png?raw=true)
+! [Mind Map] (https://bityli.com/jA5zg)
 
 
 
